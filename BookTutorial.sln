@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookTutorial", "BookTutorial\BookTutorial.csproj", "{EA414CD6-ACD7-4303-8320-071DCC5715A2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CED17203-388E-454B-9363-4C0B5C4D7C5A}"
+	ProjectSection(SolutionItems) = preProject
+		Operators.cs = Operators.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
